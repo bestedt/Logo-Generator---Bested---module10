@@ -1,6 +1,0 @@
-
-        <svg width="300" height="200">
-            <polygon points="100,50 150,150 50,150" fill="#000000" />
-            <text x="100" y="125" font-size="60" text-anchor="middle" fill="#FF0000">TJB</text>
-        </svg>
-      
